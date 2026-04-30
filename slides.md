@@ -248,7 +248,7 @@ const obj = {
 
 ---
 
-# Where are we now?
+# Where is the project now?
 
 - Decorators
 - Explicit resource management
